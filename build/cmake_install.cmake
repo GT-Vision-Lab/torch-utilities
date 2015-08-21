@@ -34,8 +34,8 @@ ENDIF(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/luarocks/rocks/vtutils/scm-1/lua/vtutils" TYPE FILE FILES
-    "/home/vrama91/projects/torch-utilities/unique.lua"
     "/home/vrama91/projects/torch-utilities/obtain_gpu_lock_id.lua"
+    "/home/vrama91/projects/torch-utilities/tensorutils.lua"
     "/home/vrama91/projects/torch-utilities/init.lua"
     )
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")

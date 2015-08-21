@@ -96,4 +96,4 @@ function obtain_gpu_lock_id.release_id ( ID)                       -- release th
 end  -----  end of function release_id  -----
 
 
-
+return obtain_gpu_lock_id
