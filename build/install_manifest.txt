@@ -1,3 +1,0 @@
-/srv/share/torch/install/lib/luarocks/rocks/vtutils/scm-1/lua/vtutils/obtain_gpu_lock_id.lua
-/srv/share/torch/install/lib/luarocks/rocks/vtutils/scm-1/lua/vtutils/tensorutils.lua
-/srv/share/torch/install/lib/luarocks/rocks/vtutils/scm-1/lua/vtutils/init.lua
